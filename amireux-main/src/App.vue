@@ -36,7 +36,7 @@
 
         </el-row>
         <el-row>
-          <el-col :span="24">电话：13999999999</el-col>
+          <el-col :span="24">电话：19816280861</el-col>
         </el-row>
         <el-row>
           <el-col :span="24"><p style="margin-bottom: 20px">Copyrights &copy; 2021 - 上海千雀灵股份有限公司</p></el-col>
