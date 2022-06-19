@@ -32,8 +32,8 @@
           </el-col>
         </el-row>
         <el-row>
-          <el-col :span="24">地址：上海市黄浦区南京路9999号</el-col>
-          
+          <el-col :span="24">地址：上海市黄浦区南京路9999111aaaaa号</el-col>
+
         </el-row>
         <el-row>
           <el-col :span="24">电话：13999999999</el-col>
